@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 23892dd3c404c8347b3eb8e1f265589d
+timeCreated: 1453939441
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firing_0
+    21300002: firing_1
+    21300004: firing_2
+    21300006: firing_3
+    21300008: firing_4
+    21300010: firing_5
+    21300012: firing_6
+    21300014: firing_7
+    21300016: firing_8
+    21300018: firing_9
+    21300020: firing_10
+    21300022: firing_11
+    21300024: firing_12
+    21300026: firing_13
+    21300028: firing_14
+    21300030: firing_15
+    21300032: firing_16
+    21300034: firing_17
+    21300036: firing_18
+    21300038: firing_19
+    21300040: firing_20
+    21300042: firing_21
+    21300044: firing_22
+    21300046: firing_23
+    21300048: firing_24
+    21300050: firing_25
+    21300052: firing_26
+    21300054: firing_27
+    21300056: firing_28
+    21300058: firing_29
+    21300060: firing_30
+    21300062: firing_31
+    21300064: firing_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: firing_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 312
+        width: 40
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 51}
+        - {x: 0, y: 6}
+        - {x: 2, y: 0}
+        - {x: 25, y: 0}
+        - {x: 40, y: 3}
+        - {x: 40, y: 50}
+        - {x: 36, y: 51}
+    - name: firing_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 302
+        width: 54
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 70}
+        - {x: 0, y: 64}
+        - {x: 0, y: 10}
+        - {x: 6, y: 0}
+        - {x: 41, y: 0}
+        - {x: 54, y: 10}
+        - {x: 54, y: 62}
+        - {x: 46, y: 70}
+    - name: firing_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 294
+        width: 59
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 81}
+        - {x: 0, y: 73}
+        - {x: 0, y: 20}
+        - {x: 12, y: 0}
+        - {x: 59, y: 0}
+        - {x: 59, y: 72}
+        - {x: 46, y: 81}
+    - name: firing_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 291
+        width: 67
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 86}
+        - {x: 7, y: 80}
+        - {x: 0, y: 75}
+        - {x: 0, y: 12}
+        - {x: 14, y: 0}
+        - {x: 44, y: 0}
+        - {x: 56, y: 4}
+        - {x: 67, y: 25}
+        - {x: 67, y: 70}
+        - {x: 45, y: 86}
+    - name: firing_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 289
+        width: 76
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 89}
+        - {x: 0, y: 3}
+        - {x: 3, y: 0}
+        - {x: 56, y: 0}
+        - {x: 76, y: 16}
+        - {x: 76, y: 73}
+        - {x: 70, y: 89}
+    - name: firing_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 82
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 0}
+        - {x: 56, y: 0}
+        - {x: 82, y: 17}
+        - {x: 82, y: 87}
+        - {x: 80, y: 92}
+        - {x: 8, y: 92}
+        - {x: 0, y: 89}
+        - {x: 0, y: 9}
+    - name: firing_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 86
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 93}
+        - {x: 9, y: 86}
+        - {x: 0, y: 80}
+        - {x: 0, y: 0}
+        - {x: 56, y: 0}
+        - {x: 65, y: 3}
+        - {x: 86, y: 38}
+        - {x: 86, y: 67}
+        - {x: 54, y: 93}
+    - name: firing_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 90
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 93}
+        - {x: 0, y: 79}
+        - {x: 0, y: 9}
+        - {x: 8, y: 0}
+        - {x: 63, y: 0}
+        - {x: 90, y: 23}
+        - {x: 90, y: 66}
+        - {x: 75, y: 93}
+    - name: firing_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 93
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 94}
+        - {x: 0, y: 90}
+        - {x: 0, y: 5}
+        - {x: 9, y: 0}
+        - {x: 80, y: 0}
+        - {x: 93, y: 25}
+        - {x: 93, y: 86}
+        - {x: 81, y: 94}
+    - name: firing_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 95
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 94}
+        - {x: 3, y: 94}
+        - {x: 2, y: 92}
+        - {x: 2, y: 1}
+        - {x: 4, y: 0}
+        - {x: 71, y: 0}
+        - {x: 93, y: 13}
+        - {x: 95, y: 21}
+        - {x: 95, y: 74}
+      - - {x: 0, y: 24}
+        - {x: 0, y: 17}
+        - {x: 4, y: 17}
+        - {x: 6, y: 18}
+        - {x: 6, y: 22}
+        - {x: 5, y: 24}
+    - name: firing_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 95
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 77}
+        - {x: 58, y: 95}
+        - {x: 12, y: 95}
+        - {x: 0, y: 76}
+        - {x: 0, y: 15}
+        - {x: 17, y: 0}
+        - {x: 60, y: 0}
+        - {x: 92, y: 22}
+        - {x: 94, y: 33}
+        - {x: 94, y: 64}
+      - - {x: 92, y: 23}
+        - {x: 90, y: 22}
+        - {x: 90, y: 18}
+        - {x: 92, y: 16}
+        - {x: 95, y: 16}
+        - {x: 95, y: 23}
+    - name: firing_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 93
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 95}
+        - {x: 0, y: 93}
+        - {x: 0, y: 0}
+        - {x: 70, y: 0}
+        - {x: 93, y: 11}
+        - {x: 93, y: 87}
+        - {x: 80, y: 95}
+    - name: firing_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 93
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 95}
+        - {x: 0, y: 0}
+        - {x: 84, y: 0}
+        - {x: 93, y: 2}
+        - {x: 93, y: 85}
+        - {x: 72, y: 95}
+    - name: firing_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 94
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 95}
+        - {x: 0, y: 90}
+        - {x: 0, y: 15}
+        - {x: 14, y: 0}
+        - {x: 86, y: 0}
+        - {x: 94, y: 3}
+        - {x: 94, y: 81}
+        - {x: 79, y: 95}
+    - name: firing_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 14
+        width: 103
+        height: 176
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 2}
+        - {x: 57, y: 0}
+        - {x: 65, y: 0}
+        - {x: 65, y: 3}
+        - {x: 63, y: 5}
+        - {x: 60, y: 5}
+      - - {x: 67, y: 11}
+        - {x: 67, y: 4}
+        - {x: 75, y: 4}
+        - {x: 75, y: 10}
+        - {x: 73, y: 11}
+      - - {x: 33, y: 20}
+        - {x: 33, y: 19}
+        - {x: 36, y: 16}
+        - {x: 39, y: 17}
+        - {x: 39, y: 20}
+        - {x: 37, y: 22}
+        - {x: 35, y: 22}
+      - - {x: 23, y: 29}
+        - {x: 25, y: 27}
+        - {x: 28, y: 28}
+        - {x: 28, y: 31}
+        - {x: 26, y: 33}
+        - {x: 23, y: 32}
+      - - {x: 82, y: 42}
+        - {x: 84, y: 40}
+        - {x: 87, y: 41}
+        - {x: 87, y: 44}
+        - {x: 85, y: 46}
+        - {x: 82, y: 45}
+      - - {x: 3, y: 47}
+        - {x: 3, y: 50}
+        - {x: 0, y: 51}
+        - {x: 0, y: 46}
+      - - {x: 70, y: 56}
+        - {x: 70, y: 51}
+        - {x: 74, y: 46}
+        - {x: 77, y: 46}
+        - {x: 79, y: 47}
+        - {x: 80, y: 52}
+        - {x: 77, y: 55}
+        - {x: 73, y: 56}
+      - - {x: 96, y: 46}
+        - {x: 99, y: 47}
+        - {x: 99, y: 50}
+        - {x: 96, y: 51}
+        - {x: 94, y: 49}
+      - - {x: 35, y: 58}
+        - {x: 31, y: 55}
+        - {x: 30, y: 53}
+        - {x: 31, y: 50}
+        - {x: 35, y: 50}
+        - {x: 39, y: 51}
+        - {x: 40, y: 54}
+        - {x: 40, y: 56}
+        - {x: 38, y: 58}
+      - - {x: 43, y: 61}
+        - {x: 41, y: 57}
+        - {x: 41, y: 54}
+        - {x: 43, y: 53}
+        - {x: 47, y: 53}
+        - {x: 49, y: 55}
+        - {x: 49, y: 58}
+        - {x: 46, y: 61}
+      - - {x: 44, y: 77}
+        - {x: 42, y: 75}
+        - {x: 42, y: 71}
+        - {x: 44, y: 70}
+        - {x: 48, y: 70}
+        - {x: 49, y: 72}
+        - {x: 49, y: 76}
+        - {x: 47, y: 77}
+      - - {x: 66, y: 81}
+        - {x: 64, y: 79}
+        - {x: 64, y: 76}
+        - {x: 66, y: 74}
+        - {x: 68, y: 74}
+        - {x: 70, y: 76}
+        - {x: 70, y: 79}
+        - {x: 68, y: 81}
+      - - {x: 20, y: 176}
+        - {x: 0, y: 153}
+        - {x: 0, y: 99}
+        - {x: 2, y: 98}
+        - {x: 8, y: 107}
+        - {x: 5, y: 109}
+        - {x: 9, y: 114}
+        - {x: 9, y: 122}
+        - {x: 11, y: 116}
+        - {x: 8, y: 111}
+        - {x: 8, y: 108}
+        - {x: 18, y: 88}
+        - {x: 35, y: 86}
+        - {x: 76, y: 86}
+        - {x: 103, y: 99}
+        - {x: 103, y: 158}
+        - {x: 77, y: 176}
+    - name: firing_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 91
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 88}
+        - {x: 3, y: 88}
+        - {x: 0, y: 85}
+        - {x: 0, y: 15}
+        - {x: 28, y: 0}
+        - {x: 89, y: 0}
+        - {x: 91, y: 6}
+        - {x: 91, y: 75}
+        - {x: 88, y: 83}
+    - name: firing_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 5
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 89
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 89
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 122
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 68}
+        - {x: 0, y: 48}
+        - {x: 0, y: 18}
+        - {x: 1, y: 14}
+        - {x: 26, y: 0}
+        - {x: 89, y: 0}
+        - {x: 93, y: 10}
+        - {x: 93, y: 54}
+        - {x: 83, y: 68}
+      - - {x: 118, y: 30}
+        - {x: 118, y: 26}
+        - {x: 120, y: 24}
+        - {x: 122, y: 25}
+        - {x: 122, y: 30}
+        - {x: 121, y: 31}
+      - - {x: 107, y: 39}
+        - {x: 107, y: 37}
+        - {x: 109, y: 35}
+        - {x: 110, y: 35}
+        - {x: 113, y: 38}
+        - {x: 112, y: 41}
+        - {x: 109, y: 41}
+      - - {x: 120, y: 66}
+        - {x: 114, y: 62}
+        - {x: 114, y: 58}
+        - {x: 116, y: 57}
+        - {x: 120, y: 57}
+        - {x: 122, y: 59}
+        - {x: 122, y: 66}
+    - name: firing_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 25
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 5
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 65
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 55
+        width: 54
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 3}
+        - {x: 38, y: 0}
+        - {x: 44, y: 0}
+        - {x: 44, y: 3}
+        - {x: 42, y: 5}
+        - {x: 40, y: 5}
+      - - {x: 40, y: 15}
+        - {x: 27, y: 15}
+        - {x: 27, y: 9}
+        - {x: 29, y: 6}
+        - {x: 33, y: 4}
+        - {x: 38, y: 4}
+        - {x: 42, y: 7}
+        - {x: 42, y: 12}
+        - {x: 41, y: 14}
+      - - {x: 51, y: 7}
+        - {x: 53, y: 5}
+        - {x: 54, y: 5}
+        - {x: 54, y: 10}
+        - {x: 52, y: 10}
+      - - {x: 0, y: 20}
+        - {x: 0, y: 11}
+        - {x: 2, y: 10}
+        - {x: 5, y: 10}
+        - {x: 7, y: 13}
+        - {x: 7, y: 17}
+        - {x: 4, y: 20}
+      - - {x: 25, y: 19}
+        - {x: 26, y: 16}
+        - {x: 29, y: 16}
+        - {x: 31, y: 18}
+        - {x: 30, y: 21}
+        - {x: 27, y: 21}
+      - - {x: 9, y: 31}
+        - {x: 8, y: 26}
+        - {x: 8, y: 23}
+        - {x: 11, y: 21}
+        - {x: 12, y: 21}
+        - {x: 15, y: 24}
+        - {x: 14, y: 30}
+        - {x: 12, y: 32}
+      - - {x: 0, y: 34}
+        - {x: 0, y: 29}
+        - {x: 1, y: 28}
+        - {x: 4, y: 28}
+        - {x: 7, y: 31}
+        - {x: 7, y: 33}
+        - {x: 6, y: 34}
+    - name: firing_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 9
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 32
+        width: 60
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 12, y: 4}
+        - {x: 9, y: 3}
+      - - {x: 0, y: 9}
+        - {x: 3, y: 10}
+        - {x: 3, y: 13}
+        - {x: 1, y: 15}
+        - {x: 0, y: 15}
+      - - {x: 56, y: 26}
+        - {x: 56, y: 24}
+        - {x: 58, y: 22}
+        - {x: 60, y: 22}
+        - {x: 60, y: 28}
+        - {x: 58, y: 28}
+      - - {x: 45, y: 38}
+        - {x: 45, y: 35}
+        - {x: 49, y: 28}
+        - {x: 53, y: 28}
+        - {x: 55, y: 29}
+        - {x: 55, y: 36}
+        - {x: 50, y: 38}
+      - - {x: 55, y: 32}
+        - {x: 57, y: 30}
+        - {x: 60, y: 31}
+        - {x: 60, y: 34}
+        - {x: 58, y: 36}
+        - {x: 55, y: 35}
+      - - {x: 8, y: 40}
+        - {x: 6, y: 38}
+        - {x: 5, y: 35}
+        - {x: 5, y: 33}
+        - {x: 8, y: 31}
+        - {x: 11, y: 31}
+        - {x: 16, y: 34}
+        - {x: 16, y: 39}
+        - {x: 15, y: 40}
+      - - {x: 19, y: 43}
+        - {x: 16, y: 40}
+        - {x: 16, y: 37}
+        - {x: 19, y: 34}
+        - {x: 22, y: 34}
+        - {x: 25, y: 37}
+        - {x: 25, y: 40}
+        - {x: 22, y: 43}
+      - - {x: 27, y: 46}
+        - {x: 29, y: 45}
+        - {x: 32, y: 46}
+        - {x: 32, y: 55}
+        - {x: 28, y: 55}
+        - {x: 27, y: 52}
+      - - {x: 17, y: 57}
+        - {x: 16, y: 56}
+        - {x: 16, y: 55}
+        - {x: 20, y: 51}
+        - {x: 21, y: 51}
+        - {x: 24, y: 54}
+        - {x: 24, y: 57}
+    - name: firing_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 65
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 68
+        width: 11
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 14
+        width: 5
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 14
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firing_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9
+        width: 9
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
