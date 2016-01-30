@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class bulletFiring : MonoBehaviour {
-
+public class Groundfire : MonoBehaviour {
 
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
@@ -10,11 +9,11 @@ public class bulletFiring : MonoBehaviour {
 	private float _verticalSpeed;
 	private float _horizontalDrift;
 	//private bulletFiring enemy;
-	public GameObject enemy;
+	public GameObject tank;
 
 
 	// Use this for initialization
-		void Start () {
+	void Start () {
 		// Make a reference with the Transform Component
 		this._transform = gameObject.GetComponent<Transform>();
 		// Reset the bullets` Sprite to the Top
@@ -26,15 +25,16 @@ public class bulletFiring : MonoBehaviour {
 		this._currentPosition = this._transform.position;
 		this._currentPosition -= new Vector2(this._horizontalDrift, this._verticalSpeed);
 		this._transform.position = this._currentPosition;
-		if (this._currentPosition.y <= -200) {
+		Debug.Log (this._currentPosition.y);
+		if (this._currentPosition.y >= 200) {
 			this.Reset ();
 		}
 	}
 
 	public void Reset() {
-		this._verticalSpeed=5f;
-		this._horizontalDrift = 5f;
-		this.enemy.activeInHierarchy.Equals (true);
-		this._transform.position = this.enemy.transform.position;
+		this._verticalSpeed=-1f;
+		this._horizontalDrift = 3f;
+
+		this._transform.position = this.tank.transform.position;
 	}
 }

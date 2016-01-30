@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Groundfire.cs" />
      <Compile Include="Assets\bulletFiring.cs" />
      <Compile Include="Assets\enemy.cs" />
      <Compile Include="Assets\playerBullets.cs" />
