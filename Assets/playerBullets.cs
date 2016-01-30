@@ -1,20 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class bulletFiring : MonoBehaviour {
-
+public class playerBullets : MonoBehaviour {
 
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
 	private Vector2 _currentPosition;
-	private float _verticalSpeed;
 	private float _horizontalDrift;
 	//private bulletFiring enemy;
-	public GameObject enemy;
+	public GameObject player;
 
 
 	// Use this for initialization
-		void Start () {
+	void Start () {
 		// Make a reference with the Transform Component
 		this._transform = gameObject.GetComponent<Transform>();
 		// Reset the bullets` Sprite to the Top
@@ -24,17 +22,21 @@ public class bulletFiring : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		this._currentPosition = this._transform.position;
-		this._currentPosition -= new Vector2(this._horizontalDrift, this._verticalSpeed);
+
+		this._currentPosition += new Vector2(this._horizontalDrift,0);
 		this._transform.position = this._currentPosition;
-		if (this._currentPosition.y <= -200) {
+		if (this._currentPosition.x > -500) {
 			this.Reset ();
 		}
 	}
 
 	public void Reset() {
+		
+		this._horizontalDrift = 10f;
+		this._transform.position = this.player.transform.position;
+		this._currentPosition = this._transform.position;
+		this._currentPosition -= new Vector2(0,16);
+		this._transform.position = this._currentPosition;
 
-		this._verticalSpeed=5f;
-		this._horizontalDrift = 5f;
-		this._transform.position = this.enemy.transform.position;
 	}
 }
