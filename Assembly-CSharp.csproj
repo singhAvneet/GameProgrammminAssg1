@@ -45,12 +45,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Groundfire.cs" />
-     <Compile Include="Assets\bulletFiring.cs" />
-     <Compile Include="Assets\enemy.cs" />
-     <Compile Include="Assets\playerBullets.cs" />
+     <Compile Include="Assets\script\Groundfire.cs" />
+     <Compile Include="Assets\script\Missile.cs" />
      <Compile Include="Assets\script\background.cs" />
+     <Compile Include="Assets\script\bulletFiring.cs" />
+     <Compile Include="Assets\script\enemy.cs" />
      <Compile Include="Assets\script\player.cs" />
+     <Compile Include="Assets\script\playerBullets.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

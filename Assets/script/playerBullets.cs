@@ -32,7 +32,7 @@ public class playerBullets : MonoBehaviour {
 
 	public void Reset() {
 		
-		this._horizontalDrift = 10f;
+		this._horizontalDrift = 20f;
 		this._transform.position = this.player.transform.position;
 		this._currentPosition = this._transform.position;
 		this._currentPosition -= new Vector2(0,16);
