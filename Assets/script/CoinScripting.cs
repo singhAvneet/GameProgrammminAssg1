@@ -1,15 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Groundfire : MonoBehaviour {
+public class CoinScripting : MonoBehaviour {
 
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
 	private Vector2 _currentPosition;
-	private float _verticalSpeed;
 	private float _horizontalDrift;
-	//private bulletFiring enemy;
-	public GameObject tank;
+	private float _verticalPosition;
 
 
 	// Use this for initialization
@@ -23,18 +21,18 @@ public class Groundfire : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		this._currentPosition = this._transform.position;
-		this._currentPosition -= new Vector2(this._horizontalDrift, this._verticalSpeed);
+		this._currentPosition.y = this._verticalPosition;
+		this._currentPosition -= new Vector2(this._horizontalDrift,0f);
 		this._transform.position = this._currentPosition;
-
-		if (this._currentPosition.y >= 200) {
+		if (this._currentPosition.x < -1200) {
 			this.Reset ();
 		}
 	}
 
 	public void Reset() {
-		this._verticalSpeed=-3f;
-		this._horizontalDrift = 7f;
+		this._verticalPosition = Random.Range (-230f,230f);
+		this._horizontalDrift = 5f;
+		this._transform.position = new Vector2 (-500, 0);
 
-		this._transform.position = this.tank.transform.position;
 	}
 }
