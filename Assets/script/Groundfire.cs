@@ -25,7 +25,7 @@ public class Groundfire : MonoBehaviour {
 		this._currentPosition = this._transform.position;
 		this._currentPosition -= new Vector2(this._horizontalDrift, this._verticalSpeed);
 		this._transform.position = this._currentPosition;
-		Debug.Log (this._currentPosition.y);
+
 		if (this._currentPosition.y >= 200) {
 			this.Reset ();
 		}

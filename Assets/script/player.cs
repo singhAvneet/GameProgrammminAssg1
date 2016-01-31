@@ -6,6 +6,7 @@ public class player : MonoBehaviour {
 	// PUBLIC INSTANCE VARIABLES
 	public float speed ;
 
+
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
 	private Vector2 _currentPosition;
@@ -25,7 +26,7 @@ public class player : MonoBehaviour {
 		this._currentPosition = this._transform.position;
 		this.inputx = Input.GetAxis ("Vertical");
 		this.inputy = Input.GetAxis ("Horizontal");
-		Debug.Log (this._currentPosition);
+	
 
 		if (this.inputx > 0)
 			this._currentPosition += new Vector2 (0,this.speed);
@@ -56,4 +57,7 @@ public class player : MonoBehaviour {
 			this._currentPosition.x = -1125;
 		
 	}
+
+
+
 }
