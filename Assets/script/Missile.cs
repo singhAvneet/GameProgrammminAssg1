@@ -35,4 +35,8 @@ public class Missile : MonoBehaviour {
 		this._transform.position = new Vector2 (-500, 0);
 
 	}
+
+
+
+
 }

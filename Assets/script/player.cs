@@ -6,7 +6,6 @@ public class player : MonoBehaviour {
 	// PUBLIC INSTANCE VARIABLES
 	public float speed ;
 
-
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
 	private Vector2 _currentPosition;
@@ -17,7 +16,7 @@ public class player : MonoBehaviour {
 	void Start () {
 		// Make a reference with the Transform Component
 		this._transform = gameObject.GetComponent<Transform> ();
-
+	
 
 	}
 
