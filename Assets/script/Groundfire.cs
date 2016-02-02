@@ -26,13 +26,13 @@ public class Groundfire : MonoBehaviour {
 		this._currentPosition -= new Vector2(this._horizontalDrift, this._verticalSpeed);
 		this._transform.position = this._currentPosition;
 
-		if (this._currentPosition.y >= 200) {
+		if (this._currentPosition.y >=100 && this._currentPosition.x <=-400) {
 			this.Reset ();
 		}
 	}
 
 	public void Reset() {
-		this._verticalSpeed=-3f;
+		this._verticalSpeed=-2f;
 		this._horizontalDrift = 7f;
 
 		this._transform.position = this.tank.transform.position;
