@@ -5,6 +5,8 @@ public class background : MonoBehaviour {
 
 	// PUBLIC INSTANCE VARIABLES
 	public float speed ;
+	private AudioSource[] audioSources;
+	private AudioSource music;
 
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
@@ -17,6 +19,10 @@ public class background : MonoBehaviour {
 
 		// Reset the Ocean Sprite to the Top
 		this.Reset ();
+		//initialize the audio sources array
+		this.audioSources = gameObject.GetComponents<AudioSource> ();
+		this.music = this.audioSources [0];
+		this.music.Play ();
 	}
 
 	// Update is called once per frame

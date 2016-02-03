@@ -8,13 +8,15 @@ public class PlayerCollider : MonoBehaviour {
 	public Missile missileObj;
 	public GameController gameController;
 	public GameObject playerObj;
+
 	//private variables
 	private int score,count=1;
 	private Transform _transform;
 	private int missiles = 3;
 	private bool isEmpty = false;
 	private AudioSource[] audioSources;
-	private AudioSource engine;
+	private AudioSource coins;
+	private AudioSource blast;
 
 
 	// Use this for initialization
@@ -25,7 +27,8 @@ public class PlayerCollider : MonoBehaviour {
 
 		//initialize the audio sources array
 		this.audioSources = gameObject.GetComponents<AudioSource> ();
-		this.engine = this.audioSources [0];
+		this.coins = this.audioSources [1];
+		this.blast = this.audioSources [0];
 
 	}
 
@@ -35,13 +38,14 @@ public class PlayerCollider : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D other){
+
+		//tracks the score
 		if (other.tag == "playerBullet")
 			return;
 		else if (other.tag == "coins") {
-			this.engine.Play ();
+			this.coins.Play ();
 			count++;
 			score = score + 100;
-
 			this.gameController.ScoreValue += 100;
 			Destroy (other.gameObject);
 			if (count % 3 == 0) {
@@ -49,15 +53,18 @@ public class PlayerCollider : MonoBehaviour {
 			}
 			return;
 		}
+
+		//tracks number of lives
 		if (this.gameController.LivesValue < 1) {
 			Instantiate (playerExplosion, other.transform.position, other.transform.rotation);
 			Destroy (other.gameObject);
 			Destroy (this.gameObject);
+			this.blast.Play ();
 		} else {
 			//Destroy (this.gameObject);
 			this.gameObject.transform.position=new Vector2(transform.position.x,0);
 			//nstantiate (playerObj.gameObject, other.transform.position, other.transform.rotation);
-				
+			this.blast.Play ();	
 			this.gameController.LivesValue -= 1;
 		}
 			
