@@ -8,8 +8,8 @@ public class GameController : MonoBehaviour{
 	private int _livesValue;
 	private int missiles = 3;
 
-	private string str="Surpeet never looses" ;
-
+	//private string str="Surpeet never looses" ;
+	private string str="Sorry You loose !" ;
 
 	//public instance variable
 	public Missile missileObj;
@@ -41,7 +41,7 @@ public class GameController : MonoBehaviour{
 		if (this.groundEnemy == null) 
 			if (this.airEnemy == null)
 				if (this.missileEnemy == null)
-					this.winnerLoser.text = "Surpreet You Win !";
+					this.winnerLoser.text = "You Win !";
 			//this.method1 ();
 
 		if (this.player == null) {
