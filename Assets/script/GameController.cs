@@ -8,18 +8,20 @@ public class GameController : MonoBehaviour{
 	private int _livesValue;
 	private int missiles = 3;
 
-	//private string str="Surpeet never looses" ;
-	private string str="Sorry You loose !" ;
+	private string str="Game Over" ;
+	//private string str="Sorry You loose !" ;
 
 	//public instance variable
 	public Missile missileObj;
 	public Text score;
 	public Text lives;
 	public Text winnerLoser;
+	public Text highScore;
 	public GameObject player;
 	public GameObject airEnemy;
 	public GameObject groundEnemy;
 	public GameObject missileEnemy;
+	public Button RESTART;
 
 	//public access methods
 	public int ScoreValue{get { return _scoreValue;} set{ this._scoreValue = value;}}
@@ -38,46 +40,41 @@ public class GameController : MonoBehaviour{
 		this.lives.text = "Lives: " + this._livesValue;
 		//if (this.groundEnemy == null ) 
 		//	if(this.airEnemy == null)
-		if (this.groundEnemy == null) 
-			if (this.airEnemy == null)
-				if (this.missileEnemy == null)
-					this.winnerLoser.text = "You Win !";
+		if (this.groundEnemy == null)
+		if (this.airEnemy == null)
+		if (this.missileEnemy == null) {
+			this.winnerLoser.text = " You Win !";
+			this.highScore.text = "High Score: " + this._scoreValue;
+		}
+		
 			//this.method1 ();
 
 		if (this.player == null) {
 
 			this.winnerLoser.text =str;
-
+			this.highScore.text = "High Score: " + this._scoreValue;
+			Destroy (this.airEnemy.gameObject);
+			Destroy (this.groundEnemy.gameObject);
+			Destroy (this.missileEnemy.gameObject);
+			this.RESTART.enabled = true;
 		}
 	}
 
 	private void _initialize(){
 		this.ScoreValue = 0;
 		this.LivesValue = 3;
-
+		this.RESTART.enabled = false;
 		//Destroy (missileObj.gameObject);
 		/*for (int missileCount=0;missileCount<missiles;missileCount++) {
 			Instantiate (missileObj.gameObject);	*/	
 		
 		}
 
-	private void method1 (){
-		if (this.airEnemy == null)
-			this.method2();
-			//this.winnerLoser.text = "You Win !";
-			//
 
-			
-		
+	public void restartButtonClick(){
+	//	Application.loadLevel ("Main");
+	
 	}
-
-	private void method2(){
-		if (this.missileEnemy == null)
-			this.winnerLoser.text = "You Win !";
-		
-
-}
-
 
 
 }
