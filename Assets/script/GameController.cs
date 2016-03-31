@@ -8,8 +8,8 @@ public class GameController : MonoBehaviour{
 	private int _livesValue;
 	private int missiles = 3;
 
-	private string str="Game Over" ;
-	//private string str="Sorry You loose !" ;
+//	private string str="Game Over" ;
+	private string str=" you can do it !" ;
 
 	//public instance variable
 	public Missile missileObj;

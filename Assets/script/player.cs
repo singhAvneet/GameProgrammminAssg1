@@ -45,6 +45,7 @@ public class player : MonoBehaviour {
 	}
 
 	public void checkPosiiton() {
+	
 		if (this._currentPosition.y < -200)
 			this._currentPosition.y = -200;
 		if (this._currentPosition.y > 200)
