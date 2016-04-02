@@ -50,6 +50,7 @@
      <Compile Include="Assets\script\GameController.cs" />
      <Compile Include="Assets\script\GroundEnemyDestroy.cs" />
      <Compile Include="Assets\script\Groundfire.cs" />
+     <Compile Include="Assets\script\MenuSceneController.cs" />
      <Compile Include="Assets\script\Missile.cs" />
      <Compile Include="Assets\script\PlayerCollider.cs" />
      <Compile Include="Assets\script\background.cs" />

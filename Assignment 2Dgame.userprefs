@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\PlayerCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\MenuSceneController.cs">
     <Files>
-      <File FileName="Assets\script\GameController.cs" Line="11" Column="36" />
-      <File FileName="Assets\script\PlayerCollider.cs" Line="6" Column="36" />
+      <File FileName="Assets\script\MenuSceneController.cs" Line="34" Column="20" />
+      <File FileName="Assets\script\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\PlayerCollider.cs" Line="1" Column="1" />
       <File FileName="Assets\script\Groundfire.cs" Line="1" Column="1" />
       <File FileName="Assets\script\player.cs" Line="1" Column="1" />
       <File FileName="Assets\script\GroundEnemyDestroy.cs" Line="1" Column="1" />
