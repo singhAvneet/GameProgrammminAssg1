@@ -1,14 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\MenuSceneController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\playerBullets.cs">
     <Files>
-      <File FileName="Assets\script\MenuSceneController.cs" Line="34" Column="20" />
-      <File FileName="Assets\script\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\player.cs" Line="55" Column="34" />
       <File FileName="Assets\script\PlayerCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MenuSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\GameController.cs" Line="1" Column="1" />
       <File FileName="Assets\script\Groundfire.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\player.cs" Line="1" Column="1" />
       <File FileName="Assets\script\GroundEnemyDestroy.cs" Line="1" Column="1" />
       <File FileName="Assets\script\DestroyPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\background.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\playerBullets.cs" Line="31" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

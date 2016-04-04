@@ -28,7 +28,7 @@ public class playerBullets : MonoBehaviour {
 		this._currentPosition += new Vector2(this._horizontalDrift,0);
 		this._transform.position = this._currentPosition;
 
-		if (this._currentPosition.x > -500) {
+		if (this._currentPosition.x > this.player.transform.position.x +500) {
 			this.Reset ();
 		}
 
