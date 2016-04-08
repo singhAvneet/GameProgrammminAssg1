@@ -6,11 +6,11 @@ public class playerBullets : MonoBehaviour {
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
 	private Vector2 _currentPosition;
-	private float _horizontalDrift;
+
 
 	//public bulletFiring enemy;
 	public GameObject player;
-
+	public float _horizontalDrift;
 
 
 	// Use this for initialization
@@ -28,7 +28,7 @@ public class playerBullets : MonoBehaviour {
 		this._currentPosition += new Vector2(this._horizontalDrift,0);
 		this._transform.position = this._currentPosition;
 
-		if (this._currentPosition.x > this.player.transform.position.x +500) {
+		if (this._currentPosition.x > this.player.transform.position.x +500||this._currentPosition.x < this.player.transform.position.x -500) {
 			this.Reset ();
 		}
 
@@ -36,7 +36,7 @@ public class playerBullets : MonoBehaviour {
 
 	public void Reset() {
 		
-		this._horizontalDrift = 20f;
+
 
 		if (this.player == null) {
 		
@@ -46,9 +46,13 @@ public class playerBullets : MonoBehaviour {
 		}
 		this._transform.position = this.player.transform.position;
 		this._currentPosition = this._transform.position;
-		this._currentPosition -= new Vector2(0,16);
-		this._transform.position = this._currentPosition;
 
+		if(player.tag=="dragion")
+			this._currentPosition -= new Vector2(0,-8);
+		else
+			this._currentPosition -= new Vector2(0,14);
+
+		this._transform.position = this._currentPosition;
 	}
 
 

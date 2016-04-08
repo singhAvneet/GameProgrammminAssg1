@@ -17,8 +17,9 @@ public class GroundEnemyDestroy : MonoBehaviour {
 	
 	}
 	void OnTriggerEnter2D(Collider2D other){
+		Instantiate (blast, other.transform.position, other.transform.rotation);
+
 		if(other.tag == "playerBullet"&& this.lives<0){
-			Instantiate (blast, other.transform.position, other.transform.rotation);
 			//Destroy (other.gameObject);
 			Destroy (this.gameObject);
 			//this.explosion.Play();

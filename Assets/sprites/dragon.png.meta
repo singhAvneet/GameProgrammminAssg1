@@ -1,0 +1,1650 @@
+fileFormatVersion: 2
+guid: 95d0a2e96017e004289b949487d19211
+timeCreated: 1459813239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon_0
+    21300002: dragon_1
+    21300004: dragon_2
+    21300006: dragon_3
+    21300008: dragon_4
+    21300010: dragon_5
+    21300012: dragon_6
+    21300014: dragon_7
+    21300016: dragon_8
+    21300018: dragon_9
+    21300020: dragon_10
+    21300022: dragon_11
+    21300024: dragon_12
+    21300026: dragon_13
+    21300028: dragon_14
+    21300030: dragon_15
+    21300032: dragon_16
+    21300034: dragon_17
+    21300036: dragon_18
+    21300038: dragon_19
+    21300040: dragon_20
+    21300042: dragon_21
+    21300044: dragon_22
+    21300046: dragon_23
+    21300048: dragon_24
+    21300050: dragon_25
+    21300052: dragon_26
+    21300054: dragon_27
+    21300056: dragon_29
+    21300058: dragon_30
+    21300060: dragon_31
+    21300062: dragon_32
+    21300064: dragon_33
+    21300066: dragon_34
+    21300068: dragon_35
+    21300070: dragon_36
+    21300072: dragon_37
+    21300074: dragon_38
+    21300076: dragon_39
+    21300078: dragon_40
+    21300080: dragon_41
+    21300082: dragon_42
+    21300084: dragon_43
+    21300086: dragon_44
+    21300088: dragon_45
+    21300090: dragon_46
+    21300092: dragon_47
+    21300094: dragon_48
+    21300096: dragon_49
+    21300098: dragon_50
+    21300100: dragon_51
+    21300102: dragon_52
+    21300104: dragon_53
+    21300106: dragon_54
+    21300108: dragon_55
+    21300110: dragon_56
+    21300112: dragon_57
+    21300114: dragon_58
+    21300116: dragon_59
+    21300118: dragon_60
+    21300120: dragon_61
+    21300122: dragon_62
+    21300124: dragon_63
+    21300126: dragon_64
+    21300128: dragon_65
+    21300130: dragon_66
+    21300132: dragon_67
+    21300134: dragon_68
+    21300136: dragon_69
+    21300138: dragon_70
+    21300140: dragon_71
+    21300142: dragon_72
+    21300144: dragon_73
+    21300146: dragon_74
+    21300148: dragon_75
+    21300150: dragon_76
+    21300152: dragon_77
+    21300154: dragon_78
+    21300156: dragon_79
+    21300158: dragon_80
+    21300160: dragon_81
+    21300162: dragon_82
+    21300164: dragon_83
+    21300166: dragon_84
+    21300168: dragon_85
+    21300170: dragon_86
+    21300172: dragon_87
+    21300174: dragon_88
+    21300176: dragon_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragon_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 615
+        width: 130
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.139694, y: 26.0784}
+        - {x: -42.139694, y: 0.07839966}
+        - {x: -35.139694, y: -25.9216}
+        - {x: 42.860306, y: -25.9216}
+        - {x: 42.860306, y: 26.0784}
+    - name: dragon_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 614
+        width: 134
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.198479, y: 26.931122}
+        - {x: -38.19848, y: 23.931122}
+        - {x: -43.19848, y: 17.931122}
+        - {x: -43.19848, y: -7.068878}
+        - {x: -21.198479, y: -26.068878}
+        - {x: 31.801521, y: -26.068878}
+        - {x: 44.80152, y: -14.068878}
+        - {x: 44.80152, y: 17.931122}
+        - {x: 24.801521, y: 26.931122}
+    - name: dragon_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 615
+        width: 134
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.3425903, y: 26.0784}
+        - {x: -4.3425903, y: 22.0784}
+        - {x: -19.34259, y: 25.0784}
+        - {x: -38.34259, y: 22.0784}
+        - {x: -43.34259, y: 17.0784}
+        - {x: -43.34259, y: 2.0783997}
+        - {x: -42.34259, y: -2.9216003}
+        - {x: -29.34259, y: -25.9216}
+        - {x: 44.65741, y: -25.9216}
+        - {x: 44.65741, y: 25.0784}
+        - {x: 28.65741, y: 26.0784}
+      - - {x: 41.65741, y: 18.0784}
+        - {x: 43.65741, y: 16.0784}
+        - {x: 44.65741, y: 16.0784}
+        - {x: 44.65741, y: 21.0784}
+        - {x: 42.65741, y: 21.0784}
+    - name: dragon_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 621
+        width: 131
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.74591, y: 23.462097}
+        - {x: 31.74591, y: 20.462097}
+        - {x: 29.74591, y: 25.462097}
+        - {x: 26.74591, y: 27.462097}
+        - {x: -37.25409, y: 27.462097}
+        - {x: -42.25409, y: 26.462097}
+        - {x: -42.25409, y: -18.537903}
+        - {x: -20.25409, y: -25.537903}
+        - {x: 43.74591, y: -25.537903}
+        - {x: 43.74591, y: 22.462097}
+        - {x: 34.74591, y: 23.462097}
+    - name: dragon_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 621
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.24527, y: 27.962097}
+        - {x: -41.75473, y: 27.962097}
+        - {x: -41.75473, y: -0.037902832}
+        - {x: -16.75473, y: -26.037903}
+        - {x: 17.24527, y: -26.037903}
+        - {x: 39.24527, y: -19.037903}
+        - {x: 42.24527, y: -9.037903}
+        - {x: 42.24527, y: 26.962097}
+      - - {x: -41.75473, y: -1.0379028}
+        - {x: -38.75473, y: -0.037902832}
+        - {x: -38.75473, y: 4.962097}
+        - {x: -40.75473, y: 6.962097}
+        - {x: -41.75473, y: 6.962097}
+    - name: dragon_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 626
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.108063, y: 26.198486}
+        - {x: -41.108063, y: -9.801514}
+        - {x: -28.108063, y: -25.801514}
+        - {x: 29.891937, y: -25.801514}
+        - {x: 41.891937, y: -3.8015137}
+        - {x: 41.891937, y: 22.198486}
+        - {x: 32.891937, y: 26.198486}
+      - - {x: 29.891937, y: 22.198486}
+        - {x: 29.891937, y: 20.198486}
+        - {x: 31.891937, y: 18.198486}
+        - {x: 32.891937, y: 18.198486}
+        - {x: 35.891937, y: 21.198486}
+        - {x: 34.891937, y: 24.198486}
+        - {x: 31.891937, y: 24.198486}
+    - name: dragon_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 629
+        width: 125
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.83313, y: 26.14035}
+        - {x: 28.83313, y: 24.14035}
+        - {x: 27.83313, y: 19.14035}
+        - {x: 29.83313, y: 8.14035}
+        - {x: 28.83313, y: 7.1403503}
+        - {x: 28.83313, y: 3.1403503}
+        - {x: 28.83313, y: 10.14035}
+        - {x: 27.83313, y: 21.14035}
+        - {x: 26.83313, y: 26.14035}
+        - {x: -40.16687, y: 26.14035}
+        - {x: -40.16687, y: -18.85965}
+        - {x: -36.16687, y: -25.85965}
+        - {x: 22.83313, y: -25.85965}
+        - {x: 41.83313, y: -10.85965}
+        - {x: 41.83313, y: 19.14035}
+        - {x: 34.83313, y: 26.14035}
+    - name: dragon_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 571
+        width: 74
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.322998, y: 29.097992}
+        - {x: -24.322998, y: 22.097992}
+        - {x: -21.322998, y: 15.097992}
+        - {x: -14.322998, y: 9.097992}
+        - {x: -8.322998, y: 8.097992}
+        - {x: -2.322998, y: -24.902008}
+        - {x: 2.677002, y: -40.902008}
+        - {x: 24.677002, y: -40.902008}
+        - {x: 24.677002, y: 1.097992}
+        - {x: 19.677002, y: 33.097992}
+        - {x: 12.677002, y: 42.097992}
+        - {x: -11.322998, y: 42.097992}
+        - {x: -20.322998, y: 40.097992}
+    - name: dragon_8
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 373
+        width: 328
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.28125, y: 118.43617}
+        - {x: -106.28125, y: -8.5638275}
+        - {x: -51.28125, y: -117.56383}
+        - {x: 106.71875, y: -117.56383}
+        - {x: 106.71875, y: 118.43617}
+      - - {x: -104.28125, y: -59.563828}
+        - {x: -106.28125, y: -61.563828}
+        - {x: -106.28125, y: -113.56383}
+        - {x: -89.28125, y: -113.56383}
+        - {x: -68.28125, y: -97.56383}
+        - {x: -68.28125, y: -59.563828}
+      - - {x: 23.71875, y: -44.563828}
+        - {x: 9.71875, y: -47.563828}
+        - {x: 9.71875, y: -58.563828}
+        - {x: 12.71875, y: -60.563828}
+        - {x: 49.71875, y: -60.563828}
+        - {x: 53.71875, y: -53.563828}
+        - {x: 53.71875, y: -45.563828}
+        - {x: 51.71875, y: -44.563828}
+      - - {x: -97.28125, y: 77.43617}
+        - {x: -99.28125, y: 75.43617}
+        - {x: -100.28125, y: 71.43617}
+        - {x: -100.28125, y: 65.43617}
+        - {x: -99.28125, y: 64.43617}
+        - {x: 37.71875, y: 64.43617}
+        - {x: 39.71875, y: 68.43617}
+        - {x: 39.71875, y: 77.43617}
+    - name: dragon_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 512
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.976612, y: 20.408356}
+        - {x: 20.976612, y: 18.408356}
+        - {x: 20.976612, y: 16.408356}
+        - {x: 22.976612, y: 14.408356}
+        - {x: 24.976612, y: 14.408356}
+        - {x: 22.976612, y: 14.408356}
+        - {x: 11.976612, y: 26.408356}
+        - {x: -8.023388, y: 30.408356}
+        - {x: -32.023388, y: 30.408356}
+        - {x: -32.023388, y: -29.591644}
+        - {x: 32.976612, y: -29.591644}
+        - {x: 32.976612, y: 22.408356}
+        - {x: 25.976612, y: 22.408356}
+    - name: dragon_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 428
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.240204, y: 25.536682}
+        - {x: -44.759796, y: 25.536682}
+        - {x: -44.759796, y: 1.5366821}
+        - {x: -33.759796, y: -25.463318}
+        - {x: 28.240204, y: -25.463318}
+        - {x: 45.240204, y: -1.4633179}
+        - {x: 45.240204, y: 19.536682}
+      - - {x: 40.240204, y: -21.463318}
+        - {x: 38.240204, y: -23.463318}
+        - {x: 38.240204, y: -25.463318}
+        - {x: 45.240204, y: -25.463318}
+        - {x: 45.240204, y: -23.463318}
+        - {x: 43.240204, y: -21.463318}
+    - name: dragon_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 445
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.609352, y: 21.540466}
+        - {x: -44.609352, y: -8.459534}
+        - {x: -33.609352, y: -18.459534}
+        - {x: -18.609352, y: -21.459534}
+        - {x: 36.390648, y: -21.459534}
+        - {x: 45.390648, y: -11.459534}
+        - {x: 45.390648, y: 21.540466}
+    - name: dragon_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 445
+        width: 143
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.31163, y: 20.040466}
+        - {x: -46.31163, y: -15.959534}
+        - {x: -24.31163, y: -19.959534}
+        - {x: 46.68837, y: -19.959534}
+        - {x: 46.68837, y: 20.040466}
+    - name: dragon_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 502
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 504
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 445
+        width: 141
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.510742, y: 21.540466}
+        - {x: -45.510742, y: -14.459534}
+        - {x: -31.510742, y: -21.459534}
+        - {x: 38.489258, y: -21.459534}
+        - {x: 46.489258, y: -19.459534}
+        - {x: 46.489258, y: 21.540466}
+    - name: dragon_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 445
+        width: 143
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3666077, y: 19.540466}
+        - {x: -42.366608, y: 12.540466}
+        - {x: -46.366608, y: 6.5404663}
+        - {x: -46.366608, y: -15.459534}
+        - {x: -21.366608, y: -19.459534}
+        - {x: 41.633392, y: -19.459534}
+        - {x: 47.633392, y: -4.4595337}
+        - {x: 47.633392, y: 19.540466}
+    - name: dragon_17
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 371
+        width: 45
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_18
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 368
+        width: 131
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.327393, y: 40.199753}
+        - {x: -42.327393, y: 40.199753}
+        - {x: -42.327393, y: 15.199753}
+        - {x: -19.327393, y: -39.800247}
+        - {x: -2.3273926, y: -39.800247}
+        - {x: 21.672607, y: -33.800247}
+        - {x: 41.672607, y: -24.800247}
+        - {x: 43.672607, y: -13.800247}
+        - {x: 43.672607, y: 21.199753}
+    - name: dragon_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 326
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.360306, y: 16.513916}
+        - {x: 29.360306, y: 22.513916}
+        - {x: 19.360306, y: 18.513916}
+        - {x: 20.360306, y: 18.513916}
+        - {x: 9.360306, y: 24.513916}
+        - {x: -11.639694, y: 28.513916}
+        - {x: -36.639694, y: 28.513916}
+        - {x: -36.639694, y: -8.486084}
+        - {x: -27.639694, y: -28.486084}
+        - {x: 17.360306, y: -28.486084}
+        - {x: 30.360306, y: -15.486084}
+        - {x: 37.360306, y: -3.486084}
+      - - {x: 34.360306, y: -11.486084}
+        - {x: 36.360306, y: -13.486084}
+        - {x: 37.360306, y: -13.486084}
+        - {x: 37.360306, y: -5.486084}
+        - {x: 34.360306, y: -6.486084}
+    - name: dragon_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 326
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.791397, y: 34.013916}
+        - {x: -28.791397, y: 32.013916}
+        - {x: -28.791397, y: -33.986084}
+        - {x: 18.208603, y: -33.986084}
+        - {x: 29.208603, y: -17.986084}
+        - {x: 29.208603, y: 19.013916}
+        - {x: 6.208603, y: 34.013916}
+      - - {x: -28.791397, y: -4.986084}
+        - {x: -25.791397, y: -3.986084}
+        - {x: -25.791397, y: 0.013916016}
+        - {x: -27.791397, y: 2.013916}
+        - {x: -28.791397, y: 2.013916}
+      - - {x: 20.208603, y: 15.013916}
+        - {x: 17.208603, y: 12.013916}
+        - {x: 17.208603, y: 11.013916}
+        - {x: 19.208603, y: 9.013916}
+        - {x: 21.208603, y: 9.013916}
+        - {x: 23.208603, y: 11.013916}
+        - {x: 23.208603, y: 13.013916}
+        - {x: 21.208603, y: 15.013916}
+    - name: dragon_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 326
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.330582, y: 34.013916}
+        - {x: -28.330582, y: -33.986084}
+        - {x: 13.669418, y: -33.986084}
+        - {x: 28.669418, y: -22.986084}
+        - {x: 28.669418, y: 16.013916}
+        - {x: -8.330582, y: 34.013916}
+      - - {x: 25.669418, y: 24.013916}
+        - {x: 27.669418, y: 22.013916}
+        - {x: 28.669418, y: 22.013916}
+        - {x: 28.669418, y: 27.013916}
+        - {x: 26.669418, y: 27.013916}
+    - name: dragon_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 326
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.18837, y: 34.013916}
+        - {x: -28.81163, y: 34.013916}
+        - {x: -28.81163, y: -33.986084}
+        - {x: 22.18837, y: -33.986084}
+        - {x: 29.18837, y: -24.986084}
+        - {x: 29.18837, y: 13.013916}
+        - {x: 14.18837, y: 32.013916}
+      - - {x: -28.81163, y: 7.013916}
+        - {x: -28.81163, y: -8.986084}
+        - {x: -25.81163, y: -7.986084}
+        - {x: -25.81163, y: 5.013916}
+        - {x: -26.81163, y: 7.013916}
+      - - {x: 26.18837, y: 24.013916}
+        - {x: 28.18837, y: 22.013916}
+        - {x: 29.18837, y: 22.013916}
+        - {x: 29.18837, y: 27.013916}
+        - {x: 27.18837, y: 27.013916}
+    - name: dragon_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 326
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.998108, y: 34.013916}
+        - {x: -28.998108, y: 34.013916}
+        - {x: -28.998108, y: -33.986084}
+        - {x: 14.001892, y: -33.986084}
+        - {x: 30.001892, y: -19.986084}
+        - {x: 30.001892, y: 20.013916}
+        - {x: 27.001892, y: 25.013916}
+      - - {x: -28.998108, y: -7.986084}
+        - {x: -25.998108, y: -6.986084}
+        - {x: -25.998108, y: -0.986084}
+        - {x: -27.998108, y: 1.013916}
+        - {x: -28.998108, y: 1.013916}
+    - name: dragon_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 326
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.346405, y: 12.513916}
+        - {x: 20.346405, y: 6.513916}
+        - {x: 20.346405, y: -4.486084}
+        - {x: 19.346405, y: 6.513916}
+        - {x: 19.346405, y: 28.513916}
+        - {x: -36.653595, y: 28.513916}
+        - {x: -36.653595, y: 13.513916}
+        - {x: -25.653595, y: 5.513916}
+        - {x: -27.653595, y: -8.486084}
+        - {x: -30.653595, y: -28.486084}
+        - {x: 35.346405, y: -28.486084}
+        - {x: 37.346405, y: -23.486084}
+        - {x: 37.346405, y: 15.513916}
+        - {x: 36.346405, y: 18.513916}
+      - - {x: 27.346405, y: 18.513916}
+        - {x: 25.346405, y: 17.513916}
+        - {x: 25.346405, y: 13.513916}
+        - {x: 26.346405, y: 12.513916}
+        - {x: 30.346405, y: 12.513916}
+        - {x: 31.346405, y: 14.513916}
+        - {x: 31.346405, y: 16.513916}
+        - {x: 30.346405, y: 18.513916}
+    - name: dragon_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 326
+        width: 130
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.06888, y: 25.513916}
+        - {x: -42.06888, y: -3.486084}
+        - {x: -21.068878, y: -25.486084}
+        - {x: 24.931122, y: -25.486084}
+        - {x: 42.93112, y: -15.486084}
+        - {x: 42.93112, y: 25.513916}
+    - name: dragon_26
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 323
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.774963, y: 25.572067}
+        - {x: -43.774963, y: 20.572067}
+        - {x: -43.774963, y: 11.572067}
+        - {x: -42.774963, y: 10.572067}
+        - {x: -41.774963, y: 2.5720673}
+        - {x: -39.774963, y: 0.57206726}
+        - {x: -37.774963, y: 0.57206726}
+        - {x: -18.774963, y: -12.427933}
+        - {x: -13.774963, y: -9.427933}
+        - {x: -11.774963, y: -8.427933}
+        - {x: -13.774963, y: -10.427933}
+        - {x: -16.774963, y: -18.427933}
+        - {x: -16.774963, y: -25.427933}
+        - {x: 27.225037, y: -25.427933}
+        - {x: 44.225037, y: -14.427933}
+        - {x: 44.225037, y: 25.572067}
+    - name: dragon_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 212
+        width: 141
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.64349, y: 26.72377}
+        - {x: -40.64349, y: 23.72377}
+        - {x: -45.64349, y: 16.72377}
+        - {x: -45.64349, y: -1.2762299}
+        - {x: -24.64349, y: -26.27623}
+        - {x: 23.35651, y: -26.27623}
+        - {x: 46.35651, y: -19.27623}
+        - {x: 46.35651, y: 22.72377}
+        - {x: 30.35651, y: 26.72377}
+    - name: dragon_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 212
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.71872, y: 21.72377}
+        - {x: 33.71872, y: 18.72377}
+        - {x: 35.71872, y: 16.72377}
+        - {x: 37.71872, y: 16.72377}
+        - {x: 35.71872, y: 16.72377}
+        - {x: 25.71872, y: 26.72377}
+        - {x: -13.2812805, y: 26.72377}
+        - {x: -45.28128, y: 19.72377}
+        - {x: -45.28128, y: -2.2762299}
+        - {x: -23.28128, y: -26.27623}
+        - {x: 27.71872, y: -26.27623}
+        - {x: 45.71872, y: -15.27623}
+        - {x: 45.71872, y: 23.72377}
+        - {x: 38.71872, y: 24.72377}
+    - name: dragon_30
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 214
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.25287, y: 25.018341}
+        - {x: 31.252869, y: 18.018341}
+        - {x: 27.252869, y: 25.018341}
+        - {x: 17.252869, y: 27.018341}
+        - {x: -20.747131, y: 27.018341}
+        - {x: -44.74713, y: 21.018341}
+        - {x: -44.74713, y: 2.018341}
+        - {x: -32.74713, y: -6.981659}
+        - {x: -15.747131, y: -25.981659}
+        - {x: 27.252869, y: -25.981659}
+        - {x: 45.25287, y: -6.981659}
+        - {x: 45.25287, y: 20.018341}
+        - {x: 44.25287, y: 22.018341}
+    - name: dragon_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 212
+        width: 136
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.845154, y: 26.72377}
+        - {x: 32.845154, y: 22.72377}
+        - {x: 32.845154, y: 20.72377}
+        - {x: 31.845154, y: 16.72377}
+        - {x: 31.845154, y: -5.27623}
+        - {x: 18.845154, y: -5.27623}
+        - {x: 20.845154, y: -4.27623}
+        - {x: 24.845154, y: -1.2762299}
+        - {x: 24.845154, y: -3.2762299}
+        - {x: 26.845154, y: -5.27623}
+        - {x: 28.845154, y: -5.27623}
+        - {x: 30.845154, y: -4.27623}
+        - {x: 31.845154, y: -1.2762299}
+        - {x: 31.845154, y: 11.72377}
+        - {x: 28.845154, y: 26.72377}
+        - {x: -44.154846, y: 26.72377}
+        - {x: -44.154846, y: -11.27623}
+        - {x: -19.154846, y: -26.27623}
+        - {x: 27.845154, y: -26.27623}
+        - {x: 44.845154, y: -8.27623}
+        - {x: 44.845154, y: 19.72377}
+        - {x: 34.845154, y: 26.72377}
+    - name: dragon_32
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 242
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_33
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 246
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_34
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 248
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 245
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_36
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 222
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_37
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 263
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_39
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 260
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_40
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 231
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_41
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 235
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_42
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 222
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_43
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 229
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_45
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 225
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_46
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 181
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_47
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 183
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_48
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 183
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_49
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 188
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_50
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 215
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_51
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 217
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_52
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 188
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 118
+        width: 129
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.732616, y: 26.379272}
+        - {x: -41.732616, y: 24.379272}
+        - {x: -41.732616, y: 5.3792725}
+        - {x: -26.732616, y: -25.620728}
+        - {x: 23.267384, y: -25.620728}
+        - {x: 32.267384, y: -23.620728}
+        - {x: 43.267384, y: -8.620728}
+        - {x: 43.267384, y: 24.379272}
+        - {x: 36.267384, y: 26.379272}
+    - name: dragon_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 118
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.503166, y: 23.879272}
+        - {x: 34.503166, y: 23.879272}
+        - {x: 32.503166, y: 21.879272}
+        - {x: 32.503166, y: 18.879272}
+        - {x: 26.503166, y: 21.879272}
+        - {x: 23.503166, y: 25.879272}
+        - {x: -43.496834, y: 25.879272}
+        - {x: -44.496834, y: 24.879272}
+        - {x: -44.496834, y: -3.1207275}
+        - {x: -14.496834, y: -25.120728}
+        - {x: 22.503166, y: -25.120728}
+        - {x: 43.503166, y: -13.120728}
+        - {x: 45.503166, y: -4.1207275}
+        - {x: 45.503166, y: 21.879272}
+    - name: dragon_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 115
+        width: 141
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.300888, y: 27.437424}
+        - {x: -45.699112, y: 27.437424}
+        - {x: -45.699112, y: -1.5625763}
+        - {x: -15.699112, y: -26.562576}
+        - {x: 26.300888, y: -26.562576}
+        - {x: 43.300888, y: -13.562576}
+        - {x: 46.300888, y: 0.4374237}
+        - {x: 46.300888, y: 22.437424}
+    - name: dragon_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 115
+        width: 142
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.223114, y: 26.937424}
+        - {x: -46.223114, y: -16.062576}
+        - {x: -23.223114, y: -26.062576}
+        - {x: 29.776886, y: -26.062576}
+        - {x: 46.776886, y: -5.0625763}
+        - {x: 46.776886, y: 26.937424}
+      - - {x: 34.776886, y: 20.937424}
+        - {x: 35.776886, y: 17.937424}
+        - {x: 38.776886, y: 17.937424}
+        - {x: 40.776886, y: 19.937424}
+        - {x: 39.776886, y: 22.937424}
+        - {x: 36.776886, y: 22.937424}
+    - name: dragon_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 115
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.630829, y: 26.937424}
+        - {x: -46.63083, y: 14.937424}
+        - {x: -46.63083, y: -18.062576}
+        - {x: -25.630829, y: -26.062576}
+        - {x: 42.36917, y: -26.062576}
+        - {x: 47.36917, y: -17.062576}
+        - {x: 47.36917, y: 19.937424}
+        - {x: 38.36917, y: 26.937424}
+      - - {x: 37.36917, y: 17.937424}
+        - {x: 40.36917, y: 18.937424}
+        - {x: 40.36917, y: 21.937424}
+        - {x: 37.36917, y: 22.937424}
+        - {x: 35.36917, y: 20.937424}
+    - name: dragon_58
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 117
+        width: 135
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.654846, y: 26.231987}
+        - {x: -43.654846, y: 23.231987}
+        - {x: -43.654846, y: 0.231987}
+        - {x: -42.654846, y: -3.768013}
+        - {x: -26.654846, y: -24.768013}
+        - {x: 44.345154, y: -24.768013}
+        - {x: 44.345154, y: 21.231987}
+        - {x: 37.345154, y: 26.231987}
+    - name: dragon_59
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 184
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_60
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 188
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_61
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 188
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_62
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 161
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5220947, y: 16.712395}
+        - {x: -0.5220947, y: 15.712395}
+        - {x: 0.47790527, y: 12.712395}
+        - {x: -6.5220947, y: 16.712395}
+        - {x: -20.522095, y: 16.712395}
+        - {x: -24.522095, y: 7.7123947}
+        - {x: -24.522095, y: -8.287605}
+        - {x: -22.522095, y: -12.287605}
+        - {x: -13.522095, y: -16.287605}
+        - {x: 25.477905, y: -16.287605}
+        - {x: 25.477905, y: 7.7123947}
+        - {x: 14.477905, y: 16.712395}
+    - name: dragon_63
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 132
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_64
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_65
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 124
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_66
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 124
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_67
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 124
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.222534, y: 21.262962}
+        - {x: -18.777466, y: 21.262962}
+        - {x: -23.777466, y: 15.262962}
+        - {x: -23.777466, y: -18.737038}
+        - {x: -19.777466, y: -20.737038}
+        - {x: 24.222534, y: -20.737038}
+        - {x: 24.222534, y: -0.73703766}
+        - {x: 23.222534, y: 4.2629623}
+    - name: dragon_68
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 109
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_69
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 151
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_70
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 95
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_71
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 115
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_72
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 113
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_73
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 124
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 16
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.735779, y: 19.85651}
+        - {x: 26.735779, y: 18.85651}
+        - {x: 24.735779, y: 16.85651}
+        - {x: 24.735779, y: 14.85651}
+        - {x: 26.735779, y: 12.85651}
+        - {x: 28.735779, y: 12.85651}
+        - {x: 25.735779, y: 11.85651}
+        - {x: 21.735779, y: 21.85651}
+        - {x: 5.735779, y: 27.85651}
+        - {x: 2.7357788, y: 28.85651}
+        - {x: -31.264221, y: 28.85651}
+        - {x: -35.26422, y: 26.85651}
+        - {x: -35.26422, y: -12.14349}
+        - {x: -31.264221, y: -28.14349}
+        - {x: 34.73578, y: -28.14349}
+        - {x: 36.73578, y: -20.14349}
+        - {x: 36.73578, y: 19.85651}
+    - name: dragon_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 18
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.032227, y: 29.151075}
+        - {x: -35.032227, y: -16.848925}
+        - {x: -32.032227, y: -27.848925}
+        - {x: 17.967773, y: -27.848925}
+        - {x: 35.967773, y: -16.848925}
+        - {x: 35.967773, y: 26.151075}
+        - {x: 15.967773, y: 29.151075}
+    - name: dragon_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 16
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.827423, y: 28.85651}
+        - {x: -34.827423, y: 27.85651}
+        - {x: -34.827423, y: -0.14348984}
+        - {x: -25.827423, y: -26.14349}
+        - {x: -23.827423, y: -28.14349}
+        - {x: 28.172577, y: -28.14349}
+        - {x: 36.172577, y: -24.14349}
+        - {x: 36.172577, y: 18.85651}
+        - {x: 16.172577, y: 28.85651}
+    - name: dragon_77
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 93
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 100
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_79
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 90
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_80
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 75
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_81
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 75
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_82
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 76
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_83
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 56
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.709229, y: 21.85651}
+        - {x: 26.709229, y: 17.85651}
+        - {x: 25.709229, y: 19.85651}
+        - {x: 10.7092285, y: 27.85651}
+        - {x: -36.29077, y: 27.85651}
+        - {x: -38.29077, y: 23.85651}
+        - {x: -38.29077, y: 0.85651016}
+        - {x: -27.290771, y: -27.14349}
+        - {x: 29.709229, y: -27.14349}
+        - {x: 35.70923, y: -23.14349}
+        - {x: 39.70923, y: -8.14349}
+        - {x: 39.70923, y: 17.85651}
+    - name: dragon_85
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 15
+        width: 118
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.180786, y: 28.709229}
+        - {x: -38.180786, y: -19.290771}
+        - {x: -35.180786, y: -27.290771}
+        - {x: 32.819214, y: -27.290771}
+        - {x: 39.819214, y: -8.2907715}
+        - {x: 39.819214, y: 22.709229}
+        - {x: 25.819214, y: 28.709229}
+    - name: dragon_86
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 19
+        width: 132
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.62326, y: 25.798357}
+        - {x: -42.62326, y: 24.798357}
+        - {x: -42.62326, y: 0.798357}
+        - {x: -24.62326, y: -25.201643}
+        - {x: 35.37674, y: -25.201643}
+        - {x: 37.37674, y: -24.201643}
+        - {x: 43.37674, y: -14.201643}
+        - {x: 43.37674, y: 22.798357}
+        - {x: 34.37674, y: 25.798357}
+    - name: dragon_87
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 18
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.085358, y: 24.151075}
+        - {x: 33.085358, y: 21.151075}
+        - {x: 31.085358, y: 17.151075}
+        - {x: 32.085358, y: 12.151075}
+        - {x: 30.085358, y: 17.151075}
+        - {x: 27.085358, y: 22.151075}
+        - {x: 20.085358, y: 26.151075}
+        - {x: -2.9146423, y: 26.151075}
+        - {x: -40.914642, y: 23.151075}
+        - {x: -43.914642, y: 19.151075}
+        - {x: -43.914642, y: -19.848925}
+        - {x: -31.914642, y: -24.848925}
+        - {x: 42.085358, y: -24.848925}
+        - {x: 45.085358, y: -15.848925}
+        - {x: 45.085358, y: 16.151075}
+        - {x: 37.085358, y: 24.151075}
+    - name: dragon_88
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 69
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dragon_89
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 78
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

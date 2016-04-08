@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 3a4b3730360b0064d8bd1f77ccaf2409
+timeCreated: 1459821445
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fireball_3_0
+    21300002: fireball_3_1
+    21300004: fireball_3_2
+    21300006: fireball_3_3
+    21300008: fireball_3_4
+    21300010: fireball_3_5
+    21300012: fireball_3_6
+    21300014: fireball_3_7
+    21300016: fireball_3_8
+    21300018: fireball_3_9
+    21300020: fireball_3_10
+    21300022: fireball_3_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fireball_3_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -18}
+        - {x: -22, y: -18}
+        - {x: -22, y: -14}
+        - {x: -24, y: -12}
+        - {x: -28, y: -12}
+      - - {x: -21, y: 18}
+        - {x: -28, y: 14}
+        - {x: -28, y: -7}
+        - {x: -19, y: -18}
+        - {x: 20, y: -18}
+        - {x: 28, y: -12}
+        - {x: 28, y: 18}
+      - - {x: -26, y: 18}
+        - {x: -28, y: 16}
+        - {x: -28, y: 8}
+        - {x: -20, y: 8}
+        - {x: -18, y: 10}
+        - {x: -18, y: 18}
+    - name: fireball_3_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18}
+        - {x: -27, y: 2}
+        - {x: -28, y: -2}
+        - {x: -28, y: -18}
+        - {x: 25, y: -18}
+        - {x: 28, y: -16}
+        - {x: 28, y: 18}
+      - - {x: -28, y: 16}
+        - {x: -28, y: 8}
+        - {x: -20, y: 8}
+        - {x: -18, y: 10}
+        - {x: -18, y: 14}
+        - {x: -20, y: 16}
+    - name: fireball_3_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -14}
+        - {x: -16, y: -18}
+        - {x: -4, y: -18}
+        - {x: -4, y: -14}
+        - {x: -6, y: -12}
+        - {x: -14, y: -12}
+      - - {x: -21, y: 18}
+        - {x: -30, y: 17}
+        - {x: -30, y: 2}
+        - {x: -26, y: -8}
+        - {x: 1, y: -18}
+        - {x: 22, y: -18}
+        - {x: 27, y: -17}
+        - {x: 30, y: -15}
+        - {x: 30, y: 18}
+      - - {x: -30, y: -8}
+        - {x: -30, y: -16}
+        - {x: -22, y: -16}
+        - {x: -20, y: -14}
+        - {x: -20, y: -10}
+        - {x: -22, y: -8}
+    - name: fireball_3_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -18}
+        - {x: -20, y: -18}
+        - {x: -20, y: -14}
+        - {x: -22, y: -12}
+        - {x: -30, y: -12}
+      - - {x: -19, y: 18}
+        - {x: -30, y: 13}
+        - {x: -30, y: -6}
+        - {x: -20, y: -18}
+        - {x: 25, y: -18}
+        - {x: 30, y: -14}
+        - {x: 30, y: 18}
+      - - {x: -30, y: 18}
+        - {x: -30, y: 12}
+        - {x: -22, y: 12}
+        - {x: -20, y: 14}
+        - {x: -20, y: 18}
+    - name: fireball_3_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fireball_3_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

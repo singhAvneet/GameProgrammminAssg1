@@ -51,8 +51,8 @@ public class player : MonoBehaviour {
 		if (this._currentPosition.y > 200)
 			this._currentPosition.y = 200;
 		
-		if (this._currentPosition.x > 1096)
-			this._currentPosition.x = 1096;
+		if (this._currentPosition.x > 3535)
+			this._currentPosition.x = 3535;
 		if (this._currentPosition.x < -1125)
 			this._currentPosition.x = -1125;
 		

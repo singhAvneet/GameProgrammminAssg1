@@ -45,18 +45,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\dragon.cs" />
      <Compile Include="Assets\script\CameraFollow.cs" />
      <Compile Include="Assets\script\CoinScripting.cs" />
+     <Compile Include="Assets\script\DaigonalFiring.cs" />
      <Compile Include="Assets\script\DestroyPlayer.cs" />
      <Compile Include="Assets\script\GameController.cs" />
      <Compile Include="Assets\script\GroundEnemyDestroy.cs" />
      <Compile Include="Assets\script\Groundfire.cs" />
+     <Compile Include="Assets\script\Helicopter.cs" />
      <Compile Include="Assets\script\MenuSceneController.cs" />
      <Compile Include="Assets\script\Missile.cs" />
      <Compile Include="Assets\script\PlayerCollider.cs" />
      <Compile Include="Assets\script\background.cs" />
      <Compile Include="Assets\script\bulletFiring.cs" />
      <Compile Include="Assets\script\enemy.cs" />
+     <Compile Include="Assets\script\horizontalBulletFire.cs" />
      <Compile Include="Assets\script\player.cs" />
      <Compile Include="Assets\script\playerBullets.cs" />
  <Reference Include="UnityEngine.UI">

@@ -1,16 +1,23 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\playerBullets.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\Owner\Downloads\GameProgrammminAssg1\GameProgrammminAssg1\Assets\script\MenuSceneController.cs">
     <Files>
-      <File FileName="Assets\script\player.cs" Line="55" Column="34" />
-      <File FileName="Assets\script\PlayerCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\PlayerCollider.cs" Line="39" Column="2" />
       <File FileName="Assets\script\MenuSceneController.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\GameController.cs" Line="80" Column="2" />
       <File FileName="Assets\script\Groundfire.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\GroundEnemyDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\GroundEnemyDestroy.cs" Line="21" Column="3" />
       <File FileName="Assets\script\DestroyPlayer.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\background.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\playerBullets.cs" Line="31" Column="30" />
+      <File FileName="Assets\script\background.cs" Line="48" Column="1" />
+      <File FileName="Assets\script\playerBullets.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CoinScripting.cs" Line="10" Column="2" />
+      <File FileName="Assets\dragon.cs" Line="33" Column="23" />
+      <File FileName="Assets\script\bulletFiring.cs" Line="41" Column="1" />
+      <File FileName="Assets\script\DaigonalFiring.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\enemy.cs" Line="43" Column="1" />
+      <File FileName="Assets\script\horizontalBulletFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Missile.cs" Line="4" Column="12" />
+      <File FileName="C:\Users\Owner\Downloads\GameProgrammminAssg1\GameProgrammminAssg1\Assets\script\MenuSceneController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

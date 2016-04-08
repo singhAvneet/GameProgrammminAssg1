@@ -37,6 +37,7 @@ public class PlayerCollider : MonoBehaviour {
 		//Debug.Log (score);
 	}
 
+
 	void OnTriggerEnter2D(Collider2D other){
 
 		//tracks the score
