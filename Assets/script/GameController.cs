@@ -62,7 +62,7 @@ public class GameController : MonoBehaviour{
 
 	private void _initialize(){
 		this.ScoreValue = 0;
-		this.LivesValue = 3;
+		this.LivesValue = 31;
 		this.RESTART.enabled = false;
 		//Destroy (missileObj.gameObject);
 		/*for (int missileCount=0;missileCount<missiles;missileCount++) {
