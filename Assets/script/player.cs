@@ -46,13 +46,13 @@ public class player : MonoBehaviour {
 
 	public void checkPosiiton() {
 	
-		if (this._currentPosition.y < -200)
-			this._currentPosition.y = -200;
+		if (this._currentPosition.y < -1158)
+			this._currentPosition.y = -1158;
 		if (this._currentPosition.y > 200)
 			this._currentPosition.y = 200;
 		
-		if (this._currentPosition.x > 3535)
-			this._currentPosition.x = 3535;
+		if (this._currentPosition.x > 5887)
+			this._currentPosition.x = 5887;
 		if (this._currentPosition.x < -1125)
 			this._currentPosition.x = -1125;
 		

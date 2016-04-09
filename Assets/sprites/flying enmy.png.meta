@@ -1,0 +1,1360 @@
+fileFormatVersion: 2
+guid: 5a920b8a71db5db42b404c97183be67a
+timeCreated: 1460223891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flying enmy_0
+    21300002: flying enmy_1
+    21300004: flying enmy_2
+    21300006: flying enmy_3
+    21300008: flying enmy_4
+    21300010: flying enmy_5
+    21300012: flying enmy_6
+    21300014: flying enmy_7
+    21300016: flying enmy_8
+    21300018: flying enmy_9
+    21300020: flying enmy_10
+    21300022: flying enmy_11
+    21300024: flying enmy_12
+    21300026: flying enmy_13
+    21300028: flying enmy_14
+    21300030: flying enmy_15
+    21300032: flying enmy_16
+    21300034: flying enmy_17
+    21300036: flying enmy_18
+    21300038: flying enmy_19
+    21300040: flying enmy_20
+    21300042: flying enmy_21
+    21300044: flying enmy_22
+    21300046: flying enmy_23
+    21300048: flying enmy_24
+    21300050: flying enmy_25
+    21300052: flying enmy_26
+    21300054: flying enmy_27
+    21300056: flying enmy_28
+    21300058: flying enmy_29
+    21300060: flying enmy_30
+    21300062: flying enmy_31
+    21300064: flying enmy_32
+    21300066: flying enmy_33
+    21300068: flying enmy_34
+    21300070: flying enmy_35
+    21300072: flying enmy_36
+    21300074: flying enmy_37
+    21300076: flying enmy_38
+    21300078: flying enmy_39
+    21300080: flying enmy_40
+    21300082: flying enmy_41
+    21300084: flying enmy_42
+    21300086: flying enmy_43
+    21300088: flying enmy_44
+    21300090: flying enmy_45
+    21300092: flying enmy_46
+    21300094: flying enmy_47
+    21300096: flying enmy_48
+    21300098: flying enmy_49
+    21300100: flying enmy_50
+    21300102: flying enmy_51
+    21300104: flying enmy_52
+    21300106: flying enmy_53
+    21300108: flying enmy_54
+    21300110: flying enmy_55
+    21300112: flying enmy_56
+    21300114: flying enmy_57
+    21300116: flying enmy_58
+    21300118: flying enmy_59
+    21300120: flying enmy_60
+    21300122: flying enmy_61
+    21300124: flying enmy_62
+    21300126: flying enmy_63
+    21300128: flying enmy_64
+    21300130: flying enmy_65
+    21300132: flying enmy_66
+    21300134: flying enmy_67
+    21300136: flying enmy_68
+    21300138: flying enmy_69
+    21300140: flying enmy_70
+    21300142: flying enmy_71
+    21300144: flying enmy_72
+    21300146: flying enmy_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flying enmy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 673
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: flying enmy_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 673
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 676
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: flying enmy_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 676
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 676
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: flying enmy_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 676
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 676
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: flying enmy_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 677
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 676
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 9}
+        - {x: -0.5, y: 6}
+        - {x: -1.5, y: 19}
+        - {x: -3.5, y: 20}
+        - {x: -20.5, y: 20}
+        - {x: -32.5, y: -2}
+        - {x: -34.5, y: -12}
+        - {x: -34.5, y: -20}
+        - {x: 34.5, y: -20}
+        - {x: 34.5, y: -2}
+        - {x: 12.5, y: 10}
+    - name: flying enmy_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 676
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: flying enmy_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 676
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 12}
+        - {x: 0, y: 19}
+    - name: flying enmy_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 596
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -13}
+        - {x: -21.5, y: -21}
+        - {x: -9.5, y: -21}
+        - {x: -9.5, y: -17}
+        - {x: -14.5, y: -13}
+      - - {x: -1.5, y: 21}
+        - {x: -19.5, y: 21}
+        - {x: -21.5, y: 15}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: -2}
+        - {x: 16.5, y: 15}
+    - name: flying enmy_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 613
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21}
+        - {x: -19.5, y: 21}
+        - {x: -21.5, y: 15}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: -2}
+        - {x: 16.5, y: 15}
+    - name: flying enmy_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 630
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19}
+        - {x: -17.5, y: -16}
+        - {x: -15.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 19}
+    - name: flying enmy_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 637
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 554
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 18.5}
+        - {x: 13.5, y: 25.5}
+        - {x: -14.5, y: 25.5}
+        - {x: -32.5, y: 1.5}
+        - {x: -32.5, y: -25.5}
+        - {x: 7.5, y: -25.5}
+        - {x: 6.5, y: -23.5}
+        - {x: 1.5, y: -18.5}
+        - {x: 32.5, y: -22.5}
+    - name: flying enmy_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 554
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -35}
+        - {x: 10, y: -35}
+        - {x: 16, y: -13}
+        - {x: 5, y: -9}
+        - {x: 15, y: -12}
+        - {x: 30, y: -11}
+        - {x: 30, y: 20}
+        - {x: 18, y: 35}
+        - {x: -24, y: 35}
+        - {x: -30, y: 18}
+        - {x: -30, y: -35}
+        - {x: -13, y: -35}
+        - {x: -11, y: -30}
+        - {x: -11, y: -27}
+        - {x: -11, y: -34}
+    - name: flying enmy_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 553
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 553
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 554
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 554
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 484
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 485
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 455
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 392
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 392
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 392
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33.5}
+        - {x: -19, y: -33.5}
+        - {x: 19, y: -33.5}
+        - {x: 19, y: 33.5}
+    - name: flying enmy_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 392
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 24.5}
+        - {x: -15, y: 24.5}
+        - {x: -18, y: -10.5}
+        - {x: -18, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: 10.5}
+        - {x: 14, y: 16.5}
+    - name: flying enmy_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 392
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 7.5}
+        - {x: 14.5, y: 15.5}
+        - {x: 2.5, y: 23.5}
+        - {x: 0.5, y: 24.5}
+        - {x: -10.5, y: 24.5}
+        - {x: -13.5, y: 23.5}
+        - {x: -19.5, y: -8.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 392
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 20}
+        - {x: -19.5, y: 17}
+        - {x: -19.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 15}
+        - {x: 17.5, y: 20}
+    - name: flying enmy_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 392
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: 12}
+        - {x: -17, y: -10}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 18}
+        - {x: 15, y: 20}
+    - name: flying enmy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -24.5}
+        - {x: 24, y: -24.5}
+        - {x: 24, y: 24.5}
+        - {x: -22, y: 24.5}
+        - {x: -24, y: 21.5}
+        - {x: -24, y: -24.5}
+        - {x: -6, y: -24.5}
+        - {x: -4, y: -19.5}
+        - {x: -4, y: -16.5}
+        - {x: -4, y: -23.5}
+    - name: flying enmy_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 323
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 24.5}
+        - {x: -14.5, y: 24.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -19.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 18.5, y: 19.5}
+    - name: flying enmy_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 323
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 24}
+        - {x: -20, y: 24}
+        - {x: -24, y: 8}
+        - {x: -24, y: -24}
+        - {x: 21, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 11}
+        - {x: 15, y: 19}
+    - name: flying enmy_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 323
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -48, y: -1}
+        - {x: -48, y: -6}
+        - {x: -28, y: -24}
+        - {x: 34, y: -24}
+        - {x: 48, y: -18}
+        - {x: 48, y: -1}
+        - {x: 1, y: 24}
+    - name: flying enmy_36
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -29, y: 17}
+        - {x: -29, y: -28}
+        - {x: 29, y: -28}
+        - {x: 29, y: 28}
+    - name: flying enmy_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 316
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 31}
+        - {x: -26, y: 29}
+        - {x: -26, y: -31}
+        - {x: 22, y: -31}
+        - {x: 26, y: -25}
+        - {x: 26, y: 24}
+        - {x: 21, y: 31}
+    - name: flying enmy_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 258
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 29}
+        - {x: -29, y: 25}
+        - {x: -29, y: -24}
+        - {x: -24, y: -29}
+        - {x: 21, y: -29}
+        - {x: 29, y: -25}
+        - {x: 29, y: 29}
+    - name: flying enmy_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 256
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31}
+        - {x: -31, y: 26}
+        - {x: -31, y: -25}
+        - {x: -28, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: 31}
+    - name: flying enmy_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 257
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -31}
+        - {x: 23.5, y: -31}
+        - {x: 23.5, y: 31}
+        - {x: -23.5, y: 31}
+        - {x: -23.5, y: -31}
+        - {x: 7.5, y: -31}
+        - {x: 7.5, y: -29}
+        - {x: 5.5, y: -27}
+        - {x: 7.5, y: -28}
+      - - {x: 20.5, y: 14}
+        - {x: 22.5, y: 12}
+        - {x: 23.5, y: 12}
+        - {x: 23.5, y: 17}
+        - {x: 21.5, y: 17}
+    - name: flying enmy_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 285
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 255
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 257
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 243
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 243
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 237
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 173
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 10.5}
+        - {x: 7.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 8.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: flying enmy_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 177
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: 12}
+        - {x: -17, y: -10}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 20}
+    - name: flying enmy_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 177
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 17}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 20}
+    - name: flying enmy_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 177
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: 12}
+        - {x: -17, y: -10}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 20}
+    - name: flying enmy_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 177
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: 12}
+        - {x: -17, y: -10}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 20}
+    - name: flying enmy_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -4}
+        - {x: 22.5, y: 10}
+        - {x: 13.5, y: 19}
+        - {x: -13.5, y: 19}
+        - {x: -20.5, y: 18}
+        - {x: -22.5, y: -2}
+        - {x: -22.5, y: -19}
+        - {x: 17.5, y: -19}
+    - name: flying enmy_53
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 178
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 0}
+        - {x: 12.5, y: 15}
+        - {x: 7.5, y: 19}
+        - {x: -10.5, y: 19}
+        - {x: -15.5, y: 18}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: -14}
+        - {x: 16.5, y: -11}
+    - name: flying enmy_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 178
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 19}
+    - name: flying enmy_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 127
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20}
+        - {x: -18.5, y: 2}
+        - {x: -18.5, y: -20}
+        - {x: 11.5, y: -20}
+        - {x: 18.5, y: -10}
+        - {x: 18.5, y: 20}
+    - name: flying enmy_56
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 127
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -21, y: 12}
+        - {x: -21, y: -20}
+        - {x: 11, y: -20}
+        - {x: 19, y: 1}
+        - {x: 19, y: 20}
+      - - {x: 18, y: -8}
+        - {x: 20, y: -10}
+        - {x: 21, y: -10}
+        - {x: 21, y: -5}
+        - {x: 19, y: -5}
+    - name: flying enmy_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -12, y: 19}
+        - {x: -19, y: 3}
+        - {x: -19, y: -8}
+        - {x: -17, y: -8}
+        - {x: -11, y: -5}
+        - {x: -19, y: -11}
+        - {x: -19, y: -20}
+        - {x: 12, y: -20}
+        - {x: 19, y: -10}
+        - {x: 19, y: 20}
+    - name: flying enmy_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 127
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 20}
+        - {x: -7, y: 20}
+        - {x: -9, y: 19}
+        - {x: -22, y: -4}
+        - {x: -22, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -16}
+        - {x: 22, y: -10}
+    - name: flying enmy_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 127
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -21, y: 1}
+        - {x: -21, y: -20}
+        - {x: 14, y: -20}
+        - {x: 21, y: -10}
+        - {x: 21, y: 20}
+    - name: flying enmy_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 122
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 122
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 122
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26}
+        - {x: -16.5, y: -23}
+        - {x: -12.5, y: -26}
+        - {x: 3.5, y: -26}
+        - {x: 14.5, y: -21}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 22}
+        - {x: 15.5, y: 26}
+    - name: flying enmy_65
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 64
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 69
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 61
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 26.5}
+        - {x: -19.5, y: 26.5}
+        - {x: -19.5, y: -25.5}
+        - {x: -17.5, y: -26.5}
+        - {x: 6.5, y: -26.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 19.5, y: -2.5}
+        - {x: 19.5, y: 22.5}
+    - name: flying enmy_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 27.5}
+        - {x: -15.5, y: 27.5}
+        - {x: -18.5, y: 25.5}
+        - {x: -18.5, y: -22.5}
+        - {x: -17.5, y: -27.5}
+        - {x: 3.5, y: -27.5}
+        - {x: 14.5, y: -20.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 13.5}
+    - name: flying enmy_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flying enmy_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 14
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
