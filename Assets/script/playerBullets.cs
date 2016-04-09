@@ -49,6 +49,9 @@ public class playerBullets : MonoBehaviour {
 
 		if(player.tag=="dragion")
 			this._currentPosition -= new Vector2(0,-8);
+		else if(player.tag=="IronMan"){
+			this._currentPosition -= new Vector2(0,-5);
+		}			
 		else
 			this._currentPosition -= new Vector2(0,14);
 

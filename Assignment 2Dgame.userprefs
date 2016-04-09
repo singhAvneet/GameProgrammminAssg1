@@ -1,15 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\GameController.cs">
-    <Files>
-      <File FileName="Assets\script\horizontalBulletFire.cs" Line="14" Column="23" />
-      <File FileName="Assets\script\Valcono.cs" Line="15" Column="40" />
-      <File FileName="Assets\Hinge.cs" Line="13" Column="38" />
-      <File FileName="Assets\script\GameController.cs" Line="65" Column="23" />
-      <File FileName="Assets\script\player.cs" Line="31" Column="56" />
-      <File FileName="Assets\script\PlayerCollider.cs" Line="52" Column="25" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

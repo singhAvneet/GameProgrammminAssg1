@@ -45,7 +45,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Hinge.cs" />
      <Compile Include="Assets\script\CameraFollow.cs" />
      <Compile Include="Assets\script\CoinScripting.cs" />
      <Compile Include="Assets\script\DaigonalFiring.cs" />
@@ -54,6 +53,7 @@
      <Compile Include="Assets\script\GroundEnemyDestroy.cs" />
      <Compile Include="Assets\script\Groundfire.cs" />
      <Compile Include="Assets\script\Helicopter.cs" />
+     <Compile Include="Assets\script\Hinge.cs" />
      <Compile Include="Assets\script\MenuSceneController.cs" />
      <Compile Include="Assets\script\Missile.cs" />
      <Compile Include="Assets\script\PlayerCollider.cs" />

@@ -38,8 +38,7 @@ public class GameController : MonoBehaviour{
 	void Update () {
 		this.score.text = "Score: " + this._scoreValue;
 		this.lives.text = "Lives: " + this._livesValue;
-		//if (this.groundEnemy == null ) 
-		//	if(this.airEnemy == null)
+	
 		if (this.groundEnemy == null)
 		if (this.airEnemy == null)
 		if (this.missileEnemy == null) {
@@ -50,7 +49,6 @@ public class GameController : MonoBehaviour{
 			//this.method1 ();
 
 		if (this.player == null) {
-
 			this.winnerLoser.text =str;
 			this.highScore.text = "High Score: " + this._scoreValue;
 			Destroy (this.airEnemy.gameObject);

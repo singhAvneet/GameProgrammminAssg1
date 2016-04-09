@@ -25,16 +25,27 @@ public class dragon : MonoBehaviour {
 		this._currentPosition.y = this._verticalPosition;
 		this._currentPosition -= new Vector2(this._horizontalDrift,0f);
 		this._transform.position = this._currentPosition;
-		if (this._currentPosition.x < -1200) {
+		if (this._currentPosition.x < this.player.transform.position.x) {
 			this.Reset ();
 		}
 	}
 
 	public void Reset() {
-		this._verticalPosition = Random.Range (-230f,230f);
-		this._horizontalDrift = 0f;
+		this._verticalPosition = Random.Range (-213f,157f);
+		this._horizontalDrift = 1f;
 		this._transform.position = new Vector2 (this.player.transform.position.x+600, 0);
 
+	}
+
+	void OnTriggerEnter2D(Collider2D other){
+		if (other.tag == "upWall") {
+			this._transform.position = new Vector2 (0f,this._transform.position.y+40.534);
+		
+		}
+		if (other.tag == "downWall") {
+			this._transform.position = new Vector2 (0f,this._transform.position.y-40.534);
+		
+		}
 	}
 
 }
