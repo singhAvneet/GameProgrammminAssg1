@@ -39,11 +39,11 @@ public class dragon : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other){
 		if (other.tag == "upWall") {
-			this._transform.position = new Vector2 (0f,this._transform.position.y+40.534);
+			this._transform.position = new Vector2 (0f,this._transform.position.y+40.534f);
 		
 		}
 		if (other.tag == "downWall") {
-			this._transform.position = new Vector2 (0f,this._transform.position.y-40.534);
+			this._transform.position = new Vector2 (0f,this._transform.position.y-40.534f);
 		
 		}
 	}

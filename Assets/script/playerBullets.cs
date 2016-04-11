@@ -11,6 +11,7 @@ public class playerBullets : MonoBehaviour {
 	//public bulletFiring enemy;
 	public GameObject player;
 	public float _horizontalDrift;
+	public GameObject playerExplosion;
 
 
 	// Use this for initialization
@@ -59,5 +60,10 @@ public class playerBullets : MonoBehaviour {
 	}
 
 
-
+	void OnTriggerEnter2D(Collider2D other){
+		if (other.tag == "Player")
+			return;
+		else
+		Instantiate (playerExplosion, other.transform.position, other.transform.rotation);
+	}
 }
